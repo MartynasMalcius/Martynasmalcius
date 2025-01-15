@@ -16,10 +16,9 @@ Hi there! I'm Martynas, a seasoned Quality Assurance Engineer with [X+] years of
 
 ## 📈 GitHub Stats
 
-[Your GitHub Stats Card]
-[Your Top Languages Card]
+![Martynas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartynasMalcius&show_icons=true&theme=transparent)
 
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on exciting projects and exchanging ideas with fellow QA professionals. Feel free to reach out!
-[Your LinkedIn Badge] [Your Email Badge]
+[[Your LinkedIn Badge](https://www.linkedin.com/in/martynas-malcius-460aa5286/)] [malciusm@gmail.com]
