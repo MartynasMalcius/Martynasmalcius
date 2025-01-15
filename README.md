@@ -21,4 +21,4 @@ Hi there! I'm Martynas, a seasoned Quality Assurance Engineer with [X+] years of
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on exciting projects and exchanging ideas with fellow QA professionals. Feel free to reach out!
-[[LinkedIn](https://www.linkedin.com/in/martynas-malcius-460aa5286/)] [malciusm@gmail.com]
+[[LinkedIn](https://www.linkedin.com/in/martynas-malcius/)] [malciusm@gmail.com]
