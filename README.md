@@ -1,7 +1,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm Martynas, a seasoned Quality Assurance Engineer with [X+] years of experience in ensuring the delivery of robust, high-quality software. My expertise spans both manual and automated testing, with a keen eye for detail and a passion for problem-solving.
+Hi there! I'm Martynas, a fresh made seasoned Quality Assurance Engineer. My expertise spans both manual and automated testing, with a keen eye for detail and a passion for problem-solving.
 
 ## 🛠️ Skill Set
 
